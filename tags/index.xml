@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>Pplong</title>
-      <link>https://pplongChen.github.io/tags/pplong/</link>
+      <title>Development</title>
+      <link>https://pplongChen.github.io/tags/development/</link>
       <pubDate>Wed, 31 May 2017 15:21:13 +1000</pubDate>
       
-      <guid>https://pplongChen.github.io/tags/pplong/</guid>
+      <guid>https://pplongChen.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://pplongChen.github.io/tags/golang/</link>
+      <pubDate>Wed, 31 May 2017 15:21:13 +1000</pubDate>
+      
+      <guid>https://pplongChen.github.io/tags/golang/</guid>
       <description></description>
     </item>
     
