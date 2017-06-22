@@ -1,4 +1,4 @@
-baseurl = "http://pplongChen.github.io"
+baseurl = "https://pplongChen.github.io/"
 disablePathToLower = false
 languageCode = "en-us"
 title = "Site title"
