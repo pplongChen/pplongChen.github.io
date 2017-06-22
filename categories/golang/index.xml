@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Golang on Site title</title>
-    <link>https://pplongChen.github.io/categories/golang/</link>
+    <link>http://pplongChen.github.io/categories/golang/</link>
     <description>Recent content in Golang on Site title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 May 2017 15:21:13 +1000</lastBuildDate>
     
-	<atom:link href="https://pplongChen.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://pplongChen.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>pplong title</title>
-      <link>https://pplongChen.github.io/readme/</link>
+      <link>http://pplongChen.github.io/readme/</link>
       <pubDate>Wed, 31 May 2017 15:21:13 +1000</pubDate>
       
-      <guid>https://pplongChen.github.io/readme/</guid>
+      <guid>http://pplongChen.github.io/readme/</guid>
       <description>test laaaa</description>
     </item>
     

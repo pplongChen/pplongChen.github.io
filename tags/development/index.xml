@@ -2,22 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on Site title</title>
-    <link>https://pplongChen.github.io/tags/development/</link>
+    <link>http://pplongChen.github.io/tags/development/</link>
     <description>Recent content in Development on Site title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 May 2017 15:21:13 +1000</lastBuildDate>
     
-	<atom:link href="https://pplongChen.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://pplongChen.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>pplong title</title>
-      <link>https://pplongChen.github.io/readme/</link>
+      <link>http://pplongChen.github.io/readme/</link>
       <pubDate>Wed, 31 May 2017 15:21:13 +1000</pubDate>
       
-      <guid>https://pplongChen.github.io/readme/</guid>
+      <guid>http://pplongChen.github.io/readme/</guid>
       <description>test laaaa</description>
+    </item>
+    
+    <item>
+      <title>pplong test md</title>
+      <link>http://pplongChen.github.io/blog/ouch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pplongChen.github.io/blog/ouch/</guid>
+      <description>wa haha</description>
     </item>
     
   </channel>
