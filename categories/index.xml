@@ -1,39 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Site title</title>
-    <link>http://pplongChen.github.io/categories/</link>
-    <description>Recent content in Categories on Site title</description>
+    <title>Categories on Network Telescope</title>
+    <link>https://pplongChen.github.io/categories/</link>
+    <description>Recent content in Categories on Network Telescope</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-TW</language>
+    <lastBuildDate>Fri, 23 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://pplongChen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pplongChen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
-      <link>http://pplongChen.github.io/categories/development/</link>
-      <pubDate>Wed, 31 May 2017 15:21:13 +1000</pubDate>
+      <title>/</title>
+      <link>https://pplongChen.github.io/categories/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://pplongChen.github.io/categories/development/</guid>
+      <guid>https://pplongChen.github.io/categories/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>http://pplongChen.github.io/categories/golang/</link>
-      <pubDate>Wed, 31 May 2017 15:21:13 +1000</pubDate>
+      <title>About</title>
+      <link>https://pplongChen.github.io/categories/about/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://pplongChen.github.io/categories/golang/</guid>
+      <guid>https://pplongChen.github.io/categories/about/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Test</title>
-      <link>http://pplongChen.github.io/categories/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Post</title>
+      <link>https://pplongChen.github.io/categories/post/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://pplongChen.github.io/categories/test/</guid>
+      <guid>https://pplongChen.github.io/categories/post/</guid>
       <description></description>
     </item>
     
