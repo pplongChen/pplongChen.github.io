@@ -1,11 +1,9 @@
 title: Yen-Hung Chen
 remote_theme: daattali/beautiful-jekyll
-show_author: false
 author: ""
-navbar-links:
-  EN: "/"
-  中文: "/zh_index.html"
-
+show_author: false
+show_date: false
+navbar-links: {}   
 paginate: false
 
 plugins:
