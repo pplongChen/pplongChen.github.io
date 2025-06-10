@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "關於我 (ZH)"
-permalink: /index_zh.html
+title: "陳彥宏博士"
+layout: default
+permalink: /zh_index.html
 ---
 
 [Back to English ➤](index.html)
 
-# 陳彥宏博士（Yen-Hung Chen）
+# 陳彥宏（Yen-Hung Chen）
 
 陳彥宏博士，專注於「**如何策略性地利用議程設計來推動政務官的政策**」，尤其在面對網際網路與電信產業系統性挑戰時，提出國家層級之應對策略，包含各種網路治理、數位基礎設施發展及監理政策之制定，以因應網路技術快速演進與制度轉型。
 
