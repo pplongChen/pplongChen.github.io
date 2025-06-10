@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /
 ---
 
-[中文版點此 ➤](zh.html)
+[中文版點此 ➤](index_zh.html)
 
 # Professional Background
 
