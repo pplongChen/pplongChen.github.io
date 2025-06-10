@@ -1,7 +1,6 @@
 ---
-title: "陳彥宏博士"
+title: "陳彥宏"
 layout: default
-permalink: /index_zh.html
 ---
 
 [Back to English ➤](index.html)
