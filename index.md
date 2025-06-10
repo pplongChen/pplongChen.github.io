@@ -1,11 +1,8 @@
-
 ---
 layout: default
 title: Yen-Hung Chen (陳彥宏)
 nav_order: 1
 ---
-
-# Yen-Hung Chen (陳彥宏)
 
  [\[EN\]](#en)   |    [\[中文\]](#zh_tw)
 
