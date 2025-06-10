@@ -1,8 +1,6 @@
 ---
-layout: page
-permalink: /
-date: 2025-06-10
-hide_title: true
+title: "Yen-Hung Chen"
+layout: default
 ---
 [中文版點此 ➤](index_zh.html)
 
