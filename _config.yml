@@ -1,13 +1,13 @@
 title: Yen-Hung Chen
-description: Strategic Policy Researcher
-remote_theme: chesterhow/tale
-
-navigation:
-  - title: "EN"
-    url: "/"
-  - title: "中文"
-    url: "/zh_index.html"
-
+remote_theme: daattali/beautiful-jekyll
 show_author: false
+author: ""
+navbar-links:
+  EN: "/"
+  中文: "/zh_index.html"
 
-plugins: []
+paginate: false
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
