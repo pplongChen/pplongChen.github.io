@@ -1,7 +1,17 @@
 title: Yen-Hung Chen
-description: Academic and Policy Researcher
+description: Strategic Policy Researcher
 remote_theme: chesterhow/tale
 
 author:
-  name: Yen-Hung Chen
-  url: https://github.com/pplongChen
+  name: ""
+  url: ""
+
+navigation:
+  - title: EN
+    url: /index.html
+  - title: 中文
+    url: /zh_index.html
+
+show_excerpts: false
+plugins:
+  - jekyll-seo-tag
