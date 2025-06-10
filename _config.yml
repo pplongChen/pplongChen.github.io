@@ -1,2 +1,17 @@
 title: Yen-Hung Chen
-theme: jekyll-theme-minimal
+description: Academic and Policy Researcher
+remote_theme: chesterhow/tale
+
+# 作者資訊（可選）
+author:
+  name: Yen-Hung Chen
+  url: https://github.com/pplongChen
+
+# 加入自訂 CSS（支援主題樣式與顏色）
+sass:
+  style: compressed
+
+# GitHub Pages 設定：如果你有這個 plugin（選用）
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
