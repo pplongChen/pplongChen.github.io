@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "About Me"
+layout: page
 permalink: /
+date: 2025-06-10
+hide_title: true
 ---
-
 [中文版點此 ➤](index_zh.html)
 
 # Professional Background
