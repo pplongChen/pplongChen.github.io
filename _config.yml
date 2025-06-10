@@ -1,11 +1,2 @@
 title: Yen-Hung Chen
-remote_theme: daattali/beautiful-jekyll
-author: ""
-show_author: false
-show_date: false
-navbar-links: {}   
-paginate: false
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+theme: jekyll-theme-primer
