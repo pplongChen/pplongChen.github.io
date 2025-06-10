@@ -4,7 +4,8 @@ layout: default
 ---
 [中文版點此 ➤](index_zh.html)
 
-# Professional Background
+# Yen-Hung Chen
+## Professional Background
 
 Dr. Yen-Hung Chen is a policy researcher with a specialization in **the strategic use of agenda-setting to advance the objectives of senior government officials**. His work focuses on the formulation of national-level strategies in response to systemic challenges within the internet and telecommunications sectors. His expertise spans internet governance, digital infrastructure development, and regulatory frameworks—areas critical to addressing the dynamic interplay between technological advancement and institutional transformation.
 
@@ -20,16 +21,16 @@ Since departing from public service in 2016, Dr. Chen has continued to serve as 
 
 ---
 
-# 💻 Long-term Projects
+## 💻 Long-term Projects
 
-## 🔧 [National-level analyses of spectrum demand and supply](#)
+### 🔧 [National-level analyses of spectrum demand and supply](#)
 
 > 1. Reliable spectrum policy requires forward-looking demand estimation and transparent allocation strategies.  
 > 2. To this end, national-level spectrum analysis provides a critical foundation for regulatory and industrial planning.  
 > 3. This project operationalized **ITU-recommended methodologies** using **Python** to simulate multi-band spectrum demand across time horizons.  
 > 4. The study also integrated qualitative assessments to account for institutional and behavioral uncertainties, thereby enhancing the comprehensiveness and policy relevance of spectrum allocation models.
 
-## 🌐 [Policy Wargaming for Strategic Development](#)
+### 🌐 [Policy Wargaming for Strategic Development](#)
 
 > 1. Policy wargaming is a critical method for simulating complex strategic behavior and evaluating the robustness of regulatory frameworks under dynamic conditions.  
 > 2. In domains such as telecommunications policy, where decisions involve long-term institutional trade-offs, competing stakeholder interests, and high degrees of uncertainty, conventional scenario planning often falls short.  
@@ -38,7 +39,7 @@ Since departing from public service in 2016, Dr. Chen has continued to serve as 
 
 ---
 
-# ✉️ Contacts
+## ✉️ Contacts
 
 - 📧 [tim.yh.chen@gmail.com](mailto:tim.yh.chen@gmail.com)  
 - 📧 [tim.yh.chen@outlook.com](mailto:tim.yh.chen@outlook.com)  
