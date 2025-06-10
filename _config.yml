@@ -1,56 +1,7 @@
-# === 基本設定 ===
 title: Yen-Hung Chen
-tagline: Policy Research and Strategic Foresight
-description: Personal site of Dr. Yen-Hung Chen
-url: "https://pplongChen.github.io"  # ← 請改成你自己的 GitHub Pages 網址
-baseurl: ""  
+description: Academic and Policy Researcher
+remote_theme: chesterhow/tale
 
-lang: en
-timezone: Asia/Taipei
-
-# === 佈景主題 ===
-remote_theme: cotes2020/jekyll-theme-chirpy
-theme_mode: auto   
-
-# === 作者資訊 ===
 author:
   name: Yen-Hung Chen
-  email: tim.yh.chen@gmail.com
-  github: pplongChen
-
-# === 導覽列（可以移除不需要的）===
-nav:
-  - title: About
-    url: /
-  - title: 中文
-    url: /zh.html
-  - title: GitHub
-    url: https://github.com/pplongChen
-
-# === 插件（chirpy 預設就支援這些）===
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-archives
-  - jekyll-toc
-
-# === 部署到 GitHub Pages 時需要的 ===
-markdown: kramdown
-highlighter: rouge
-lsi: false
-
-# === RSS feed 設定 ===
-feed:
-  path: feed.xml
-
-# === 是否顯示最後修改時間 ===
-lastmod: true
-
-# === 讓 GitHub Pages 使用你這份 config ===
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post
+  url: https://github.com/pplongChen
