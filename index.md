@@ -4,7 +4,6 @@ layout: default
 ---
 [中文版點此 ➤](index_zh.html)
 
-# Yen-Hung Chen
 ## Professional Background
 
 Dr. Yen-Hung Chen is a policy researcher with a specialization in **the strategic use of agenda-setting to advance the objectives of senior government officials**. His work focuses on the formulation of national-level strategies in response to systemic challenges within the internet and telecommunications sectors. His expertise spans internet governance, digital infrastructure development, and regulatory frameworks—areas critical to addressing the dynamic interplay between technological advancement and institutional transformation.
